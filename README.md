@@ -23,7 +23,7 @@ The **Software House Management System** is a basic project developed in **Progr
 ## 🚀 Getting Started
 ### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/JAFFER1272HUSSAIN/Software-House-Management.git
+git clone https://github.com/JAFFER1272HUSSAIN/SoftwareHouseManagementSystem.git
 cd Software-House-Management
 ```
 
